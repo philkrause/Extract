@@ -1,2 +1,2 @@
-# Exract is a 2-D online arcade game.  
+# Exract
 2D online arcade game
